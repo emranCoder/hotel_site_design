@@ -1,0 +1,301 @@
+@media only screen and (max-width: 960px) {
+.nav-item ul {
+	position: relative;
+	display: none;
+}
+.nav-dropdown-active:hover ul{
+	transform: scaleY(1);
+	display: block;
+}
+.carousel-item img {
+	transform: scale(2);
+	float: left;
+}
+.text-box{
+	width: 300px;
+	text-align: left;
+}
+.text-box h2 {
+	font-size: 60px;
+}
+.carousel-control-next {
+    height: 500px;
+    margin-top: 71px;
+}
+.carousel-control-prev {
+	height: 500px;
+    margin-top: 71px;
+}
+.booking-section {
+	width: 100%;
+	height: 100%;
+}
+.about-box {
+	margin: 100px 20px 50px 0px;
+}
+.price-containte:nth-child(3) {
+	margin: 0px  0px;
+}
+.room-box:nth-child(1) {
+    margin-left: 0px;
+}
+.price-containte:nth-child(6) {
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 135px;
+}
+.price {
+	right: 8%;
+	top: 38%;
+}
+.price-containte {
+	margin-bottom: 135px;
+}
+
+.room-box {
+	width: 100%;
+}
+.overly {
+	width: 93%;
+	height: 39%;
+	top: 49px;
+}
+.overly img {
+	top: 40%;
+	left: 45%;
+}
+
+.service-image {
+	margin-top: 30px;
+	width: 103%;
+}
+.service-box {
+	margin-left: 20px;
+	margin-right: 0px;
+	margin-top: -250px;
+}
+.service-iteam {
+	padding: 7px 8px;
+	margin: 70px 3px 0px 8px;
+}
+.service-iteam i {
+	font-size: 35px;
+}
+.service-iteam h5 {
+	font-size: 16px;
+}
+.service-box-active {
+    margin-right: 0px !important;
+}
+.acitve-details:before {
+	border: none;
+}
+.acitve-details2:before{
+	border: none;
+}
+.acitve-details3:before{
+	border: none;
+}
+.acitve-details4:before{
+	border: none;
+}
+.margin-stetup {
+	margin: 0px 0px; 
+}
+.comment-box {
+	margin: 10px auto;
+	width: 100%;
+}
+.comment-description {
+	line-height: 1.9;
+}
+.vedio-title {
+	margin: 50px 0px;
+}
+.bi-play  {
+	margin-left: -35px;
+}
+.contact-system {
+	width: 100%;
+	margin-left: 0;
+}
+.footer-box,.footer-box2,.footer-box3,.footer-box4 {
+	margin-left: 0px;
+}
+.footer-section {
+	height: 100%;
+	padding: 50px 20px;
+}
+.room-list-view{
+	display: block;
+}
+.list-view {
+	display: none;
+}
+}
+@media only screen and (max-width: 767px) {
+.price {
+    right: 15%;
+    top: 45%;
+}
+.service-iteam {
+    margin: 70px 31px 0px 8px;
+}
+.about-img {
+	width: 100% !important;
+}
+.contact-system {
+    width: 100%;
+    margin-left: -110px;
+}
+.footer-section {
+	height: 100%;
+	padding: 20px 0px;
+}
+.overly {
+    width: 95%;
+    height: 66%;
+    top: 49px;
+}
+.index1-about .price {
+    top: 65%;
+    right: 10%;
+}
+}
+@media only screen and (max-width: 467px) {
+	.nav-item ul {
+	position: relative;
+	display: none;
+}
+.nav-dropdown-active:hover ul{
+	transform: scaleY(1);
+	display: block;
+}
+.carousel-item img {
+	transform: scale(2);
+	float: left;
+}
+.text-box{
+	width: 300px;
+	text-align: left;
+}
+.text-box h2 {
+	font-size: 60px;
+}
+.carousel-control-next {
+    height: 500px;
+    margin-top: 71px;
+}
+.carousel-control-prev {
+	height: 500px;
+    margin-top: 71px;
+}
+.booking-section {
+	width: 100%;
+	height: 100%;
+}
+.about-box {
+	margin: 100px 20px 50px 0px;
+}
+.price-containte:nth-child(3) {
+	margin: 0px 0px 135px 0px;
+}
+.room-box:nth-child(1) {
+    margin-left: 0px;
+}
+.price {
+	right: 8%;
+	top: 41%;
+}
+
+.room-box {
+	width: 100%;
+}
+.overly {
+	width: 94%;
+	height: 56%;
+	top: 49px;
+}
+
+.service-image {
+	margin-top: 30px;
+	width: 103%;
+}
+.service-box {
+	margin-left: 20px;
+	margin-right: 0px;
+	margin-top: -250px;
+}
+.service-iteam {
+	padding: 7px 8px;
+	margin: 70px 3px 0px 8px;
+}
+.service-iteam i {
+	font-size: 35px;
+}
+.service-iteam h5 {
+	font-size: 16px;
+}
+.service-box-active {
+    margin-right: 0px !important;
+}
+.acitve-details:before {
+	border: none;
+}
+.acitve-details2:before{
+	border: none;
+}
+.acitve-details3:before{
+	border: none;
+}
+.acitve-details4:before{
+	border: none;
+}
+.margin-stetup {
+	margin: 0px 0px; 
+}
+.comment-box {
+	margin: 10px auto;
+	width: 100%;
+}
+.comment-description {
+	line-height: 1.9;
+}
+.vedio-title {
+	margin: 50px 0px;
+}
+.bi-play {
+    margin-left: -18px;
+}
+.contact-system {
+    width: 100%;
+    margin-left: 0px;
+}
+.footer-section {
+	height: 100%;
+	padding: 50px 20px;
+}
+.copy-right {
+    margin: auto;
+    text-align: center;
+}
+.footer-li {
+    float: none;
+}
+.overly {
+	width: 93%;
+	height: 39%;
+	top: 49px;
+}
+.overly img {
+	top: 40%;
+	left: 45%;
+}
+.index1-about .price {
+    top: 55%;
+}
+.room-dulex{
+	width: 100%;
+}
+}
+
